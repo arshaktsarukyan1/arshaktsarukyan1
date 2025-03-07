@@ -42,7 +42,7 @@
 - :point_right: Leadership & Collaboration: Experienced in documentation, estimations, team leadership, and aligning with Agile development methodologies. 
 - :point_right: Language Proficiency: Command a B2 level in English, ensuring smooth communication in diverse teams.
 - :point_right: Client-Centric: My excellent communication skills are underpinned by my customer support experience, always prioritizing effective problem-solving.
-- :mailbox:How to reach me: a.tsarukyan@esterox.am
+- :mailbox:How to reach me: arshak.tsarukyan@esterox.am
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsarukyana&layout=compact&theme=vision-friendly-dark)](https://github.com/arshaktsarukyan1/github-readme-stats)
 
